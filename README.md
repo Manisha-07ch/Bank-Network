@@ -1,4 +1,4 @@
-# Bank-Network
+# Secure_Bank_Network
 
 # 🏦 Secure Banking Network Design & Implementation
 
