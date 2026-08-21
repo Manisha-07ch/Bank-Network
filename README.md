@@ -39,6 +39,8 @@ The main objectives of this project are:
 
 ## 🏗️ Network Architecture
 
+https://github.com/user-attachments/assets/963819e8-5e1a-415f-9b31-267fd46dd090
+
 The network consists of the following major sections:
 
 ### 🏢 Central Banking Core
